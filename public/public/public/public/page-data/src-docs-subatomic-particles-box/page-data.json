@@ -1,0 +1,33 @@
+{
+    "componentChunkName": "component---src-docs-subatomic-particles-box-mdx",
+    "path": "/src-docs-subatomic-particles-box",
+    "result": {
+        "pageContext": {
+            "frontmatter": { "name": "Box", "menu": "Layout" },
+            "entry": {
+                "id": "2e331775a9190178c9a71920000e0687",
+                "filepath": "src/docs/subatomicParticles/Box.mdx",
+                "fullpath": "/Users/juniorconqusta/Desktop/workfolder/quarks-ui-documentation/src/docs/subatomicParticles/Box.mdx",
+                "route": "/src-docs-subatomic-particles-box",
+                "slug": "src-docs-subatomic-particles-box",
+                "name": "Box",
+                "menu": "Layout",
+                "headings": [
+                    { "slug": "box", "depth": 1, "value": "Box" },
+                    {
+                        "slug": "best-practices",
+                        "depth": 3,
+                        "value": "Best practices"
+                    },
+                    { "slug": "properties", "depth": 2, "value": "Properties" },
+                    {
+                        "slug": "basic-usage",
+                        "depth": 2,
+                        "value": "Basic usage"
+                    }
+                ]
+            }
+        }
+    },
+    "staticQueryHashes": ["1635659820"]
+}
